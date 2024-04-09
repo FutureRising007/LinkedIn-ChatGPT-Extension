@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Demo 
-
+https://github.com/FutureRising007/LinkedIn-ChatGPT-Extension/assets/76934889/c88b7814-5759-40ab-863c-5cc2b3afdbb4
 
 
 ## Available Scripts
